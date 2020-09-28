@@ -66,16 +66,12 @@ python3 graphmaker.py
 
 ```
 
-Now just enter your Rollo and your progress is displayed
+Now just enter your Rollno and your progress is displayed
 
-### Contact / Social Media
-
-[![Github](https://raw.githubusercontent.com/srbcheema1/CheemaFy/master/myPlugins/extra_things/png_images/social/github.png)](https://github.com/raman08/)
-[![LinkedIn](https://raw.githubusercontent.com/srbcheema1/CheemaFy/master/myPlugins/extra_things/png_images/social/linkedin-48x48.png)](https://www.linkedin.com/in/raman-preet-singh-314206195/)
 
 ## Contributors
 
-1. Anurag Verma 
+1. Raman08
 2. Ishan Aggarwal 
 
 ### Special Thanks 
