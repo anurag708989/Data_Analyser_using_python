@@ -1,4 +1,4 @@
-
+#for hacktoberfest2k20:)
 
 import mysql.connector as sql
 import numpy as np
