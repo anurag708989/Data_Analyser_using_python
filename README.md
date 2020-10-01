@@ -1,4 +1,4 @@
-# Statistical-Data-Analysis
+# Statistical-Data-Analysis-Using Python
 
 
 This Project Help Students to analyze their progress concerning its class. This contains four main components:
